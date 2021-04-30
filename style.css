@@ -1,0 +1,29 @@
+.menu{
+    background-color:  #000000;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+
+}
+
+.origami{
+    border-radius: 20px solid;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+
+
+    width: 310px;
+
+
+}
